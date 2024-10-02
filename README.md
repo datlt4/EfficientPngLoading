@@ -21,3 +21,28 @@ pre-commit install      # runs every time you commit in git
 pre-commit run -a       # To use
 pre-commit autoupdate   # To update this file
 ```
+
+## Todo
+
+- [x] IHDR chunk
+- [x] PLTE chunk
+- [x] IDAT chunk
+- [x] IEND chunk
+- [x] bKGD chunk
+- [x] cHRM chunk
+- [ ] cICP chunk
+- [ ] dSIG chunk
+- [ ] eXIf chunk
+- [ ] gAMA chunk
+- [ ] hIST chunk
+- [ ] iCCP chunk
+- [ ] iTXt chunk
+- [x] pHYs chunk
+- [ ] sBIT chunk
+- [ ] sPLT chunk
+- [ ] sRGB chunk
+- [ ] sTER chunk
+- [ ] tEXt chunk
+- [ ] tIME chunk
+- [ ] tRNS chunk
+- [ ] zTXt chunk
